@@ -11,6 +11,9 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 python-dateutil = "*"
+yfinance = "*"
+scipy = "*"
+tabulate = "*"
 
 [requires]
 python_version = "3.7"
